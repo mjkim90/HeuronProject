@@ -7,6 +7,18 @@
 제공된 요구사항에 따라 **Jetpack Compose**, **MVVM 아키텍처**, **클린 아키텍처**,  
 **Retrofit** 기반으로 이미지 목록 및 상세 화면 기능을 구현하였습니다.
 
+## 🌳 프로젝트 구조
+
+- 📁 **app**
+    - 📦 **com.heuron.heuronproject**
+      - 📁 core — 공통유틸
+      - 📁 data — 데이터 소스, API, Repository 구현
+      - 📁 domain — UseCase 등 비즈니스 로직
+      - 📁 presentation — View, ViewModel
+      - 📁 ui.theme — Jetpack Compose 테마
+      - 🧩 App.kt — 앱 진입 지점
+      - 🧩 MainActivity.kt — 메인 컴포즈 Activity
+
 ## ✨ 주요 기능
 
 ### ✅ 이미지 목록 화면
