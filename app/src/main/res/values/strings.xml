@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HeuronProject</string>
+    <string name="str_back">뒤로가기</string>
+    <string name="str_color">컬러 보기</string>
+    <string name="str_grayscale">흑백 보기</string>
+    <string name="str_image_reset">이미지크기 초기화</string>
+    <string name="str_yes">예</string>
+    <string name="str_no">아니오</string>
+    <string name="str_finish_title">앱 종료</string>
+    <string name="str_finish_subtitle">뒤로가기 버튼을 한번 더 누르시면 앱이 종료됩니다.</string>
+    <string name="str_not_loaded">데이터를 불러오지 못했습니다.</string>
+    <string name="str_no_matching_data">일치하는 데이터가 없습니다.</string>
+</resources>
