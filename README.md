@@ -15,8 +15,6 @@
       - 📁 domain — UseCase 등 비즈니스 로직
       - 📁 presentation — View, ViewModel
       - 📁 ui.theme — Jetpack Compose 테마
-      - 🧩 App.kt — 앱 진입 지점
-      - 🧩 MainActivity.kt — 메인 컴포즈 Activity
 
 ## ✨ 주요 기능
 
